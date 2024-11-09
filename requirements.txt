@@ -1,5 +1,12 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
+ctransformers
+sentence-transformers
 pinecone-client
 langchain
 flask
+langchain_community
+
+# ctransformers-0.2.27
+# pydantic-2.9.2 pydantic-core-2.23.4
+#lanchain 0.3.7
+#sentence_transformers 3.2.1
+#python==3.12.7
