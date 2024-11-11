@@ -4,6 +4,7 @@ pinecone-client
 langchain
 flask
 langchain_community
+pypdf
 
 # ctransformers-0.2.27
 # pydantic-2.9.2 pydantic-core-2.23.4
