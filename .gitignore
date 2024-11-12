@@ -2,3 +2,4 @@ medchatai_env
 model
 .env
 pinecone.ipynb
+MedicalChatBot.egg-info
